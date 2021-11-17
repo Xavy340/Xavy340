@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xavy340
-- 👀 I’m interested in codeing Discord Bots
+- 👀 I’m interested in coding Discord Bots
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Discord Bots
 - 📮 You can reack me on Discord (Xavy#8496)
